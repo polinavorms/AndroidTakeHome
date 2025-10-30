@@ -7,7 +7,7 @@ Welcome to Zelt's Take Home task :)
 
 ### Data Source
 ```
-https://randomuser.me/api
+https://randomuser.me/api/?results=2000
 ```
 
 Useful fields: `name.first`, `name.last`, `picture.thumbnail`, `picture.large`, `email`, `phone`, `location.city`, `location.country`.
