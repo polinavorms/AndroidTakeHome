@@ -3,7 +3,7 @@ Welcome to Zelt's Take Home task :)
 
 **Timebox**: 3-4 hours
 
-**Goal**: Build a small Android app that lists people from a public API, supports search and details, and lets the user mark one person as "Spotlighted".
+**Goal**: Build a small Android app that lists people from a public API, supports search and details.
 
 ### Data Source
 ```
